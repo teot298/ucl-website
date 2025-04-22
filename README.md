@@ -20,7 +20,6 @@ Welcome to the **UCL Website** – a front-end project built using **HTML**, **C
 | `about.html`     | Information about the UCL                        |
 | `style.css`      | Custom styles for the website                    |
 | `script.js`      | JavaScript for interactive features              |
-| `assets/`        | Images and other media                          |
 
 ---
 
@@ -41,9 +40,9 @@ Welcome to the **UCL Website** – a front-end project built using **HTML**, **C
 
 ## 🔧 Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (vanilla)
+- HTML
+- CSS
+- JavaScript 
 - GitHub Pages for hosting
 
 ---
