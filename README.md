@@ -2,7 +2,6 @@
 
 Welcome to the **UCL Website** – a front-end project built using **HTML**, **CSS**, and **JavaScript** to showcase the UEFA Champions League in a fan-friendly and interactive way.
 
-![UCL Banner](https://upload.wikimedia.org/wikipedia/en/thumb/6/66/UEFA_Champions_League_logo_2.svg/800px-UEFA_Champions_League_logo_2.svg.png)
 
 ## 🌐 Live Demo
 
